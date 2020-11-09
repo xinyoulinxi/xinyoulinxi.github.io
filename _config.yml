@@ -1,1 +1,2 @@
-exclude:['maekdown']
+# exclude:['maekdown']
+theme: jekyll-theme-cayman
