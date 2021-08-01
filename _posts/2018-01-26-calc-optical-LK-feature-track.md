@@ -4,7 +4,8 @@ title:  "光流金字塔calcOpticalFlowPyrLK进行特征点跟踪"
 date:    2018-01-26 19:42:30
 tags:
     - 关键点检测和追踪
-    - ar
+    - AR
+    - CV
 author: "YL"
 subtitle: ""
 ---
