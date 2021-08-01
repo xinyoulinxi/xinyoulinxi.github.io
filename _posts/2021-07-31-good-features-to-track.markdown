@@ -1,4 +1,15 @@
-# goodFeaturesToTrack关键点检测
+---
+layout: post
+title:  "goodFeaturesToTrack关键点检测"
+date:   2021-07-31 22:25:36
+tags:
+    - 关键点
+    - 检测
+    - goodFeaturesToTrack
+author: "YL"
+subtitle: ""
+---
+
 环境：`opencv 2.3.1`
 
 函数 `goodFeaturesToTrack`，函数原型：
@@ -47,4 +58,4 @@ int main()
 }
 ```
 运行结果如下
-![这里写图片描述](../resource/imgs/feature_1.png)
+![](/imgs/feature_1.png)

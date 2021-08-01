@@ -1,3 +1,16 @@
+
+---
+layout: post
+author: "YL"
+subtitle: "C++"
+title:  "深入探究 new 和 delete"
+date:   2021-07-31 23:31:36
+header-img: /imgs/page_bg.jpg
+tags:
+    - memory
+    - c++
+---
+
 # 【C++】 深入探究 new 和 delete
 在C++中，我们应该经常会用到`new`、`delete`，它们是C++的一个关键字，同时也是一个操作符，下面我将我对这两者的了解和学习做一个总结和探讨。
 
