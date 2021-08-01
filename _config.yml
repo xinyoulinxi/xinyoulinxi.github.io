@@ -83,8 +83,8 @@ page-mathjax: false
 
 # Friends
 friends: [
-    {
-        title: "BYVoid",
-        href: "https://byvoid.com"
-    }
+    # {
+    #     title: "BYVoid",
+    #     href: "https://byvoid.com"
+    # }
 ]

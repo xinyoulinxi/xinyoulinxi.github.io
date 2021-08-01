@@ -4,3 +4,7 @@
 - 会记录生活，但不是日记
 
 
+```
+# 发布博客
+rake post title="Hello 2015" subtitle="Hello World, Hello Blog"
+```
