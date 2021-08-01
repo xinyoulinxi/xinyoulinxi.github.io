@@ -1,10 +1,9 @@
-
 ---
 layout: post
 author: "YL"
-subtitle: "C++"
-title:  "深入探究 new 和 delete"
-date:   2021-07-31 23:31:36
+subtitle: ""
+title:  "【C++】深入探究 new 和 delete"
+date:  2017-07-27 00:29:36
 header-img: /imgs/page_bg.jpg
 tags:
     - memory

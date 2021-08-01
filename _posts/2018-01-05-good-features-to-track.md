@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  "goodFeaturesToTrack关键点检测"
-date:   2021-07-31 22:25:36
+date:    2018-01-05 19:42:30
 tags:
-    - 关键点
-    - 检测
-    - goodFeaturesToTrack
+    - 关键点检测和追踪
+    - CV
 author: "YL"
 subtitle: ""
 ---
@@ -58,4 +57,4 @@ int main()
 }
 ```
 运行结果如下
-![](/imgs/feature_1.png)
+![](/imgs/post/feature_1.png)
