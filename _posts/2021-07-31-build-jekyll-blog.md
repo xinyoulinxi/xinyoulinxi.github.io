@@ -4,12 +4,16 @@ author: "YL"
 subtitle: ""
 title:  "使用jekyll搭建github page"
 date:   2021-07-31 23:31:36
-header-img: /imgs/page_bg.jpg
+header-mask: 0.2
+header-img: "imgs/page_bg.jpg"
 tags:
     - jekyll
     - github
     - blog
     - page
+
+# catalog: true
+# header-style: text
 ---
 # 使用jekyll搭建github page
 ### 本地调试

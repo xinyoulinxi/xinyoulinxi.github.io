@@ -7,6 +7,8 @@ tags:
     - CV
 author: "YL"
 subtitle: ""
+catalog: false
+header-style: text
 ---
 
 环境：`opencv 2.3.1`

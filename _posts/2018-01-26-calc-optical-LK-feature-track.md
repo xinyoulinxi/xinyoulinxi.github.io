@@ -8,6 +8,8 @@ tags:
     - CV
 author: "YL"
 subtitle: ""
+catalog: false
+header-style: text
 ---
 # 光流金字塔calcOpticalFlowPyrLK进行特征点跟踪
 > 光流描述的是图像上每个像素点的灰度的位置（速度）变化情况，光流的研究是利用图像序列中的像素强度数据的时域变化和相关性来确定各自像素位置的“运动”。研究光流场的目的就是为了从图片序列中近似得到不能直接得到的运动场。

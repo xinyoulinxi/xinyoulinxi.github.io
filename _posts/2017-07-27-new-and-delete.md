@@ -4,10 +4,11 @@ author: "YL"
 subtitle: ""
 title:  "【C++】深入探究 new 和 delete"
 date:  2017-07-27 00:29:36
-header-img: /imgs/page_bg.jpg
 tags:
     - memory
     - c++
+catalog: false
+header-style: text
 ---
 
 # 【C++】 深入探究 new 和 delete

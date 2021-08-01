@@ -8,6 +8,8 @@ tags:
     - CV
 author: "YL"
 subtitle: ""
+catalog: false
+header-style: text
 ---
 
 # SIFT算法的特征点筛选和DMatch、Keypoint描述

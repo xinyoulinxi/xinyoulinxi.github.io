@@ -7,6 +7,8 @@ tags:
     - 爬虫
 author: "YL"
 subtitle: ""
+catalog: false
+header-style: text
 ---
 # 如何用python实现爬虫自动爬取百度图片原图
 

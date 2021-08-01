@@ -9,6 +9,8 @@ tags:
     - AR
     - c++
     - CV
+header-img: "imgs/ar-bg.jpg"
+header-mask: 0.5
 ---
 
 # 【AR】（一）如何通过捕捉特征图像来建立起三维空间

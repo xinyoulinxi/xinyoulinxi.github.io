@@ -8,6 +8,8 @@ tags:
     - CV
 author: "YL"
 subtitle: ""
+header-img: "imgs/ar-bg.jpg"
+header-mask: 0.5
 ---
 # 【AR】（二）如何快速跟踪特征图像
 最近在准备考研，所以博客很久没有更新了，最近怎么说呢，也还行吧，就是很久没有好好的打过代码了。
