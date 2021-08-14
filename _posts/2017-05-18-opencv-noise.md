@@ -1,6 +1,6 @@
 ---
 layout: post
-author: "YL"
+author: "ylvoid"
 title:  "OpenCv基础（一）"
 subtitle: "噪声的添加和过滤"
 date:  2017-05-18 20:44:24

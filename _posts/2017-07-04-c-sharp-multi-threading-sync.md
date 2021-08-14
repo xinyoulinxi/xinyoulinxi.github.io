@@ -1,6 +1,6 @@
 ---
 layout: post
-author: "YL"
+author: "ylvoid"
 title:  "C# 多线程学习（五）"
 subtitle: "线程同步和冲突解决"
 date:  2017-07-04 22:04:30

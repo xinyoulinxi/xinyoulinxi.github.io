@@ -1,9 +1,9 @@
 {
-    "name": "yl-blog",
-    "title": "yl Blog",
+    "name": "ylvoid",
+    "title": "ylvoid",
     "version": "1.0.0",
     "homepage": "https://xinyoulinxi.github.io/",
-    "author": "yl",
+    "author": "ylvoid",
     "devDependencies": {
         "grunt": ">=1.3.0",
         "grunt-banner": "~0.2.3",

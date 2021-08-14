@@ -6,7 +6,8 @@ tags:
     - 关键点检测和追踪
     - AR
     - CV
-author: "YL"
+    - 技术细节
+author: "ylvoid"
 subtitle: ""
 catalog: false
 header-style: text

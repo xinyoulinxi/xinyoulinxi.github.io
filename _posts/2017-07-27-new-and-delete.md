@@ -1,12 +1,13 @@
 ---
 layout: post
-author: "YL"
+author: "ylvoid"
 subtitle: ""
 title:  "【C++】深入探究 new 和 delete"
 date:  2017-07-27 00:29:36
 tags:
     - memory
     - c++
+    - 技术细节
 catalog: false
 header-style: text
 ---

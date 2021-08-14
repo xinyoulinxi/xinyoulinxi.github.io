@@ -1,6 +1,6 @@
 ---
 layout: post
-author: "YL"
+author: "ylvoid"
 title:  "OpenCv基础（五)"
 subtitle: "摄像头画面获取和输出"
 date:  2017-07-08 15:04:29

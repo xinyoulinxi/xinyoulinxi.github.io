@@ -1,6 +1,6 @@
 ---
 layout: post
-author: "YL"
+author: "ylvoid"
 title:  "C# 多线程学习（一）"
 subtitle: "多线程的概念"
 date:  2017-06-28 21:36:00

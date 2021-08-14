@@ -1,6 +1,6 @@
 ---
 layout: post
-author: "YL"
+author: "ylvoid"
 subtitle: ""
 title:  "【AR】（一）如何通过捕捉特征图像来建立起三维空间"
 date:   2017-11-22 20:58:24

@@ -1,6 +1,6 @@
 ---
 layout: post
-author: "YL"
+author: "ylvoid"
 title:  "C# 多线程学习（三）"
 subtitle: "Socket 服务器与客户端通信"
 date:  2017-07-04 13:16:13
@@ -10,7 +10,6 @@ tags:
 catalog: false
 header-style: text
 ---
-# C# 多线程学习（三）Socket
 正好最近用到了Socket实现了一个大小屏幕互动的应用，所以就写一下关于多线程和Socket合作编写的服务器客户端的基础教学吧。
 以下分别为服务器和客户端的简单demo，分成两个C#控制台程序编译运行就可以直接互相通信了。注意端口绑定一定要一致。
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-author: "YL"
+author: "ylvoid"
 title:  "C# 多线程学习（六）"
 subtitle: "线程池（ThreadPool）——线程资源的复用和自动管理"
 date:  2017-07-06 22:33:14

@@ -1,6 +1,6 @@
 ---
 layout: post
-author: "YL"
+author: "ylvoid"
 title:  "OpenCv基础（二)"
 subtitle: "图像的亮度和对比度属性的调节"
 date:  2017-05-19 10:58:14

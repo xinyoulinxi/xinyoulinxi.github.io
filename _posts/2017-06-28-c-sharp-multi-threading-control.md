@@ -1,6 +1,6 @@
 ---
 layout: post
-author: "YL"
+author: "ylvoid"
 title:  "C# 多线程学习（二）"
 subtitle: "线程操作"
 date:  2017-06-28 22:00:27
@@ -10,7 +10,6 @@ tags:
 catalog: false
 header-style: text
 ---
-# C# 多线程学习（二）线程操作
 在C#创建一个线程的时候，通常使用Thread类，然后提供一个线程入口，`Thread thread =new Thread(functionName)`，线程的入口通过`ThreadStart`代理（delegate）来提供，你可以把`ThreadStart` 当作一个函数指针，指向线程所要执行的函数（或者说 **方法**），当调用`Thread.Start()`方法后，线程就开始执行`ThreadStart`所代表或者说指向的函数。 
 
 然后我们开始编写一个简单的C#控制台应用程序来对一个创建的线程进行控制吧：

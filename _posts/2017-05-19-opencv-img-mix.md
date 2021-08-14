@@ -1,6 +1,6 @@
 ---
 layout: post
-author: "YL"
+author: "ylvoid"
 title:  "OpenCv基础（三）"
 subtitle: "图像的混合"
 date:  2017-05-19 20:44:24

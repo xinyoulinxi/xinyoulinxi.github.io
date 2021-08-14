@@ -1,6 +1,6 @@
 ---
 layout: post
-author: "YL"
+author: "ylvoid"
 title:  "OpenCv基础（四）"
 subtitle: "Trackbar（轨迹条）的创建和使用"
 date:  2017-07-07 23:01:21

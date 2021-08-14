@@ -1,6 +1,6 @@
 ---
 layout: post
-author: "YL"
+author: "ylvoid"
 subtitle: ""
 title:  "使用jekyll搭建github page"
 date:   2021-07-31 23:31:36

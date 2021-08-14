@@ -5,7 +5,8 @@ date:    2018-01-05 19:42:30
 tags:
     - 关键点检测和追踪
     - CV
-author: "YL"
+    - 技术细节
+author: "ylvoid"
 subtitle: ""
 catalog: false
 header-style: text
